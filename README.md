@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-![Yazawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazawaKenichi&show_icons=true&theme=radical)
-![Yazawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazawaKenichia&show_icons=true)
+![Yazawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazawaKenichi&show_icons=true&theme=gradient)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YazawaKenichi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![YazawaKenichi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YazawaKenichi)](https://github.com/anuraghazra/github-readme-stats)-->
+
 
 
 <!--**YazawaKenichi/YazawaKenichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
