@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Yazawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazawaKenichi&show_icons=true&theme=gradient&hide_border=true)
+![Yazawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazawaKenichi&show_icons=true&hide_border=true)
 <!--ナニコレ[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YazawaKenichi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&langs_count=10&theme=gradient)](https://github.com/anuraghazra/github-readme-stats&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&langs_count=10)](https://github.com/anuraghazra/github-readme-stats&hide_border=true)
 <!--[![YazawaKenichi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YazawaKenichi)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ...使い方が手探りすぎるぅ
