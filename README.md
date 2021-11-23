@@ -37,7 +37,7 @@
 <!--
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=YazawaKenichi&count_private=true&show_icons=true&theme=gradient&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,00bfff" width=54.5%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&layout=compact&theme=gradient&title_color=000000&icon_color=000000&text_color=000000&bg_color=0,00bfff,ffffff" width=45.5%>
+<img src="https://github-readme-stats.vercel.app/api?username=YazawaKenichi&count_private=true&show_icons=true&border_color=00bfff&theme=gradient&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,00bfff" width=54.5%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&border_color=00bfff&theme=gradient&title_color=000000&icon_color=000000&text_color=000000&bg_color=0,00bfff,ffffff&layout=compact" width=45.5%>
 
 <!--Chiba Institute of Technology > Faculty of Advanced Engineering > Department of Advanced Robotics > Bachelor 1-->
 
