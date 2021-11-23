@@ -17,7 +17,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=YazawaKenichi&count_private=true&show_icons=true&theme=radical" width=50%>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&theme=radical)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&theme=radical" width=50%>
 
 ...使い方が手探りすぎるぅ
 
