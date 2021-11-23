@@ -15,7 +15,8 @@
 [![](https://img.shields.io/github/followers/yazawakenichi?color=%2384F&label=followers&style=for-the-badge&logo=github)](https://github.com/yazawakenichi)
 <!--[![](https://img.shields.io/qiita/followers/yazawakenichi?color=%2384F&label=followers&style=for-the-badge&logo=Qiita)](https://qiita.com/YazawaKenichi)-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=YazawaKenichi&count_private=true&show_icons=true&theme=radical" width=54.5%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&theme=radical&layout=compact" width=45.5%>
+<img src="https://github-readme-stats.vercel.app/api?username=YazawaKenichi&count_private=true&show_icons=true&theme=radical" width=54.5%>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&theme=radical&layout=compact" width=45.5%>
 
 ...使い方が手探りすぎるぅ
 
