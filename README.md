@@ -15,8 +15,33 @@
 [![](https://img.shields.io/github/followers/yazawakenichi?color=%2384F&label=followers&style=for-the-badge&logo=github)](https://github.com/yazawakenichi)
 <!--[![](https://img.shields.io/qiita/followers/yazawakenichi?color=%2384F&label=followers&style=for-the-badge&logo=Qiita)](https://qiita.com/YazawaKenichi)-->
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=YazawaKenichi&count_private=true&show_icons=true&theme=radical" width=54.5%>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&theme=radical&layout=compact" width=45.5%>
+-->
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=YazawaKenichi&count_private=true&show_icons=true&theme=gradient&title_color=000000&icon_color=000000&text_color=000000&bg_color=0,ff00ff,ff4500" width=54.5%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&layout=compact&theme=gradient&title_color=000000&icon_color=000000&text_color=000000&bg_color=0,ff4500,ff69b4" width=45.5%>
+-->
+
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=YazawaKenichi&count_private=true&show_icons=true&theme=gradient&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,006400" width=54.5%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&layout=compact&theme=gradient&title_color=000000&icon_color=000000&text_color=000000&bg_color=0,006400,ffffff" width=45.5%>
+-->
+
+<!--
+-->
+
+<!--
+-->
+
+<!--
+-->
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=YazawaKenichi&count_private=true&show_icons=true&theme=gradient&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,9400d3" width=54.5%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&layout=compact&theme=gradient&title_color=000000&icon_color=000000&text_color=000000&bg_color=0,9400d3,ff00ff" width=45.5%>
+
+
+
 
 ...使い方が手探りすぎるぅ
 
