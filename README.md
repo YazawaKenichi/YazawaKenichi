@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-![Yazawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazawaKenichi&show_icons=true)
+<!--![Yazawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazawaKenichi&show_icons=true)-->
 <!--ナニコレ[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YazawaKenichi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&langs_count=10)](https://github.com/anuraghazra/github-readme-stats&hide_border=true)
 <!--[![YazawaKenichi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YazawaKenichi)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--参考までにhttps://github.com/shimotoriharuki/shimotoriharuki の README.md [![shimotori's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimotoriharuki&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Yazawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazawaKenichi&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ...使い方が手探りすぎるぅ
 
