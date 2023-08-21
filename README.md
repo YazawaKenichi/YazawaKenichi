@@ -1,5 +1,5 @@
-[![](https://img.shields.io/twitter/follow/kenichiyazawa?color=%234Bf&label=followers&style=for-the-badge&logo=twitter)](https://twitter.com/kenichiyazawa)
-[![](https://img.shields.io/github/followers/yazawakenichi?color=%2384F&label=followers&style=for-the-badge&logo=github)](https://github.com/yazawakenichi)
+[![](https://img.shields.io/twitter/follow/kenichiyazawa?color=%234Bf&label=@KenichiYazawa&style=for-the-badge&logo=twitter)](https://twitter.com/kenichiyazawa)
+[![](https://img.shields.io/github/followers/yazawakenichi?color=%2384F&label=YAZAWA_Kenichi&style=for-the-badge&logo=github)](https://github.com/yazawakenichi)
 <!--[![](https://img.shields.io/qiita/followers/yazawakenichi?color=%2384F&label=followers&style=for-the-badge&logo=Qiita)](https://qiita.com/YazawaKenichi)-->
 
 <!--
