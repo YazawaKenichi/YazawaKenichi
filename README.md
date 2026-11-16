@@ -22,8 +22,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YazawaKenichi&count_private=true&show_icons=true&border_color=00bfff&theme=gradient&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,000000" width=56.8%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YazawaKenichi&count_private=true&show_icons=true&border_color=00bfff&theme=gradient&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,000000&layout=compact" width=43.2%>
 -->
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=shujikawahara&count_private=false&show_icons=true&border_color=00bfff&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,000000" width=56.8%><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shujikawahara&count_private=false&show_icons=true&border_color=00bfff&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,000000&layout=compact" width=43.2%>
+-->
 
+<img src="https://github-readme-stats-smoky-xi-62.vercel.app/api/?username=shujikawahara&count_private=false&show_icons=true&border_color=00bfff&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,000000" width=56.8%><img src="https://github-readme-stats-smoky-xi-62.vercel.app/api/top-langs/?username=shujikawahara&count_private=false&show_icons=true&border_color=00bfff&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0,000000,000000&layout=compact" width=43.2%>
 
 <!--![](./profile-3d-contrib/profile-green-animate.svg)-->
 <!--![](./profile-3d-contrib/profile-green-animate.svg)-->
